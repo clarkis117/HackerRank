@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="ArrayLeftRotate.cs" />
     <Compile Include="HashTablesRansomNote.cs" />
+    <Compile Include="LinkedListDetectACycle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StacksBalancedBrackets.cs" />
     <Compile Include="StringsMakingAnagrams.cs" />
   </ItemGroup>
   <ItemGroup>
