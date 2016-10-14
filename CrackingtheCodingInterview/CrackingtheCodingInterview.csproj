@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayLeftRotate.cs" />
+    <Compile Include="HashTablesRansomNote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringsMakingAnagrams.cs" />
   </ItemGroup>
